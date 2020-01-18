@@ -1,0 +1,11 @@
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.exe
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.deps.json
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.runtimeconfig.json
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.runtimeconfig.dev.json
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.dll
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\bin\Debug\netcoreapp3.1\ShallowVsDeepCopy.pdb
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.AssemblyInfoInputs.cache
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.AssemblyInfo.cs
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.dll
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.pdb
+C:\CSharp\Week0\SI\ShallowVsDeepCopy\ShallowVsDeepCopy\ShallowVsDeepCopy\obj\Debug\netcoreapp3.1\ShallowVsDeepCopy.csprojAssemblyReference.cache
